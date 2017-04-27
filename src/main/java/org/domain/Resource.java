@@ -10,6 +10,8 @@ public class Resource {
 	@GET
 	@Produces(MediaType.TEXT_PLAIN)
 	public String test(){
-		return "Test OK!";
+		
+		return "Test OK! Changes in Test Message Change 12";
+	
 	}
 }
