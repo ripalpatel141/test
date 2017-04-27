@@ -11,7 +11,7 @@ public class Resource {
 	@Produces(MediaType.TEXT_PLAIN)
 	public String test(){
 		
-		return "Test OK! Changes in Test Message Change 12";
+		return "Test OK! Changes in Test Message Change 12 Updated with latest changes";
 	
 	}
 }
